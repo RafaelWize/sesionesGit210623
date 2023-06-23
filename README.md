@@ -10,3 +10,4 @@
 
 ## nuevo commit remooto
 nuevo commit
+commit para amend
