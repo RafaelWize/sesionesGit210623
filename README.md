@@ -11,5 +11,5 @@
 ## nuevo commit remooto
 nuevo commit
 commit para amend
-commit para amend
-1ea56c2
+commit para amende
+c4358f
